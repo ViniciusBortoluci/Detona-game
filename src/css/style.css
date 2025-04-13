@@ -1,0 +1,70 @@
+@font-face {
+    font-family: "Press Start 2P", system-ui;
+    ;
+    src: url(/src/font/PressStart2P-Regular.ttf);
+}
+
+body {}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-image: url(../images/wall.png);
+
+
+}
+
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+
+    height: 90px;
+    width: 100%;
+    color: red;
+    border-bottom: 5px solid #cfb000;
+}
+
+/* Estilizando o segundo h2 das 2 classes de uma só vez*/
+.menu .menu-time h2:nth-child(2),
+.menu .menu-score h2:nth-child(2) {
+    color: #ffffff;
+    margin-top: 1rem;
+
+}
+
+.panel {
+    display: flex;
+    height: 800px;
+    margin-top: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.square {
+    height: 200px;
+    width: 200px;
+    border: 1px solid #000000;
+    background-color: #3a3434f3;
+}
+
+.enemy {
+    background-image: url("../images/ralph.png");
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.menu-lives {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+}
+
+.menu-lives img {
+    width: 60px;
+    height: 60px;
+}
