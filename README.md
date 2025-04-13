@@ -11,7 +11,7 @@ Cada acerto vale um ponto, e al final de 60 segundos, poderá saber quando acert
 Este é um projeto de um game feito com pliacação de HTML, CSS e JavaScript.
 Inicialmente feito com html para criar a sua estrutura, usando tags semânticas, uso de ID´s e classes. 
 
-Uma estilização com CSS para deixar um visual retro como nos games antigos, com imagens e backgrounds.
+Uma estilização com CSS para deixar um visual retrô como nos games antigos, com imagens e backgrounds.
 Também conta com um Timer um marcador de pontos e contador de vida.
 
 Toda funcionalidade foi feita com Javascript, onde deixou o jogo main vivo. 
