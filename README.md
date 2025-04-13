@@ -1,4 +1,4 @@
-# Projeto Detona Game do Ri Happy - Front-end do Zero com DIO.me
+# Projeto Detona Game do Ri Happy - Front-end do Zero 
 
 ## :video_game: Projeto Detona Game :trophy:
 :checkered_flag: Bem vindo ao Detona Game, um jogo criado para passar o tempo e fazer alguns pontos. :checkered_flag:
